@@ -1,0 +1,62 @@
+# ☕ Learn Java With Me: Zero to Hero
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Progress](https://img.shields.io/badge/Status-Learning%20Basics-brightgreen)
+
+Welcome to my Java learning repository! 🚀 This project documents my journey from writing my first "Hello World" to mastering advanced Java concepts. I am building this from scratch, and I invite you to learn along with me.
+
+---
+
+## 📂 Current Progress: The Basics
+
+Right now, I am focusing on the fundamentals of the language. You can find the code for these topics in the `Basic` folder.
+
+| File Name | Concept Covered | Description |
+| :--- | :--- | :--- |
+| **`Hello World.java`** | **Syntax & Setup** | The classic starting point to ensure the environment is ready. |
+| **`Scanner.java`** | **User Input** | Learning how to take inputs from the user using the `Scanner` class. |
+| **`greaterthan.java`** | **Conditionals** | Using `if-else` logic to compare numbers. |
+| **`for-loop.java`** | **Control Flow** | Understanding loops to repeat tasks efficiently. |
+| **`String-sum.java`** | **Operations** | Basic string concatenation and arithmetic operations. |
+
+---
+
+## 🗺️ Roadmap: What's Next?
+
+I will be updating this repository regularly as I move to more complex topics:
+
+- [x] **Basics** (Variables, Loops, Conditions, Input)
+- [ ] **Arrays & Methods**
+- [ ] **Object-Oriented Programming (OOP)** (Classes, Objects, Inheritance)
+- [ ] **Exception Handling**
+- [ ] **Collections Framework** (Lists, Sets, Maps)
+- [ ] **File Handling & I/O**
+- [ ] **Advanced Java** (Multithreading, Lambdas, Streams)
+
+---
+
+## 🛠️ How to Run These Codes
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd Basic
+
+3. **Compile and Run:**
+   ```Bash
+   javac filename.java
+   java filename
+
+🤝 Let's Connect
+If you are also learning Java or have tips to improve my code, feel free to open an issue or reach out!
+
+Happy Coding! 💻
+### Why this works for you right now:
+* **Matches your screenshot:** It specifically lists `Scanner`, `for-loop`, `greaterthan`, etc., so it looks accurate immediately.
+* **Status Badge:** I added a "Status: Learning Basics" badge so visitors know exactly where you are in the journey.
+* **Scalable:** As you add a "OOP" or "Arrays" folder later, you can just change the `[ ]` to `[x]` in the Roadmap section.
+
+Would you like me to show you how to add a "Table of Contents" automatically for when the repo gets bigger?
